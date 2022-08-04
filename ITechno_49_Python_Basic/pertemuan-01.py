@@ -50,3 +50,4 @@ print(str(angka1) + str(angka2)) #output-nya 400600
 
 a = input("Masukan nama : ") #syntax input() berguna untuk meminta input pada user
 print("Hallo " + a) 
+
