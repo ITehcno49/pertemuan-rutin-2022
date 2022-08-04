@@ -16,9 +16,9 @@ print(c) # output-nya 50
 
 #Tipe data
 integer = 100                      # integer adalah tipe data berupa angka . Kalian bebas memasuka angka manapun
-string = "Angkatan 25"          # string adalah tipe data berupa karakter ditandai dengan tanda kutip2 diawal dan akhir "contoh"
-desimal = 48.9                      # float atau desimal merupakan tipe data yang memuat angka desimal ditandai ada titik
-boolean = True                      # boolean adalah tipe data yang memuat True dan False
+string = "Angkatan 25"             # string adalah tipe data berupa karakter ditandai dengan tanda kutip2 diawal dan akhir "contoh"
+desimal = 48.9                     # float atau desimal merupakan tipe data yang memuat angka desimal ditandai ada titik
+boolean = True                     # boolean adalah tipe data yang memuat True dan False
 
 print(integer)
 print(string)
